@@ -8,10 +8,8 @@ both personal and commercial projects.
 
 GET THE LATEST VERSION:
 
-We update our templates on a regular basis so to make sure that you have the latest version, 
-always download the template files directly on our website(https://www.styleshout.com/)
-
-
+Licensed update of the templates on a regular basis so to check for the latest version, 
+always download the template files directly on their website (https://www.styleshout.com/)
 
 
 -------------------------------------------------------------------------------------------------------
@@ -19,7 +17,7 @@ always download the template files directly on our website(https://www.styleshou
 
 SOURCES AND CREDITS:
 
-I've used the following resources as listed.
+Used the following resources as listed.
 
 Fonts:
  - Inter Font (https://fonts.google.com/specimen/Inter)
