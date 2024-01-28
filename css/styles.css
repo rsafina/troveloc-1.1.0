@@ -3030,7 +3030,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .s-header {
     --header-height  : 80px;
-    --logo-width     : 40px;
+    --logo-width     : 90px;
     z-index          : 100;
     background-color : transparent;
     height           : var(--header-height);
@@ -3259,7 +3259,7 @@ img.u-pull-left {
 
 @media screen and (max-width: 800px) {
     .s-header {
-        --logo-width : 36px;
+        --logo-width : 90px;
         top          : var(--vspace-0_25);
     }
 
@@ -3446,7 +3446,7 @@ img.u-pull-left {
 
 .s-intro__content-bg {
     display             : block;
-    background-image    : url(../images/intro-bg.jpg);
+    background-image    : url(../images/shoes-directory/banner.webp);
     background-repeat   : no-repeat;
     background-position : center;
     background-size     : cover;
